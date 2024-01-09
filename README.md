@@ -2,7 +2,7 @@
 
 ### under construction, under construction, visit this url to knoe how to do the same https://www.sitepoint.com/github-profile-readme/
 
-<!--**Vipulagarwal-2000/Vipulagarwal-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Vipulagarwal-2000/Vipulagarwal-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 
@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
