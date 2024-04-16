@@ -1,5 +1,5 @@
 ## Hello , I'm  Vipul Agarwal👋
-I love compounding and incremental changes over time, wheteher it's in learning, skill or in an individual person.<br> 
+I love compounding and incremental changes over time, whether it's in learning, skill or in an individual person.<br> 
 *JavaScipt| React | Node | Mongodb | Postgre Sql | Full Stack Web Development | C++*
 
 <hr>
@@ -10,5 +10,6 @@ I love compounding and incremental changes over time, wheteher it's in learning,
   Connect with me on Medium: <a href ="https://medium.com/@VA9757" target="_blank">Medium 🖼</a><br>
 <hr>
 
-
+[![Mine github stats](https://github-readme-stats.vercel.app/api?username=Vipulagarwal-2000&show_icons=true&theme=graywhite)](https://github.com/Vipulagarwal-2000/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipulagarwal-2000&layout=compact&theme=vue)](https://github.com/Vipulagarwal-2000/github-readme-stats)
  <hr>
