@@ -10,6 +10,7 @@ I love compounding and incremental changes over time, whether it's in learning, 
   Connect with me on Medium: <a href ="https://medium.com/@VA9757" target="_blank">Medium 🖼</a><br>
 <hr>
 
-[![Mine github stats](https://github-readme-stats.vercel.app/api?username=Vipulagarwal-2000&show_icons=true&theme=graywhite)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipulagarwal-2000)]
+![Mine github stats](https://github-readme-stats.vercel.app/api?username=Vipulagarwal-2000&show_icons=true&theme=graywhite)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipulagarwal-2000)
  <hr>
