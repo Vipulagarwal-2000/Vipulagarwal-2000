@@ -14,5 +14,5 @@ I love compounding and incremental changes over time, whether it's in learning, 
 <br>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipulagarwal-2000&layout=donut&hide=python,html)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipulagarwal-2000&layout=donut&hide=python,html)
  <hr>
