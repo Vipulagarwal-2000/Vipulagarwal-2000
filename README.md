@@ -11,7 +11,7 @@ I love compounding and incremental changes over time, whether it's in learning, 
 <hr>
 
 
-![Mine GitHub stats](https://github-readme-stats.vercel.app/api?username=Vipulagarwal-2000&show_icons=true&theme=tokyonighthide=stars,html)
+![Mine GitHub stats](https://github-readme-stats.vercel.app/api?username=Vipulagarwal-2000&show_icons=true&theme=cobalthide=stars,html)
 <br>
 <hr>
 
